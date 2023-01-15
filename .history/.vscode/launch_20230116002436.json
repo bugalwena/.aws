@@ -4,7 +4,6 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
         {
             "name": "(gdb) Attach",
             "type": "cppdbg",
@@ -1978,7 +1977,7 @@
             },
             "api": {
                 "path": "Path",
-                "httpMethod": "options",
+                "httpMethod": "Method",
                 "payload": {
                     "json": {}
                 }
@@ -1989,7 +1988,7 @@
             "request": "launch",
             "main": "main.js",
             "stopOnEntry": true,
-            "device": "[curr${fileExtname}]",
+            "device": "[current]",
             "name": "[Auto.js Pro调试]使用最近设备"
         },
         {

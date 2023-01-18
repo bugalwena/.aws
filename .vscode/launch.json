@@ -5,6 +5,17 @@
     "version": "0.2.0",
     "configurations": [
         
+
+
+        {
+            "name": "Python C++ Debugger",
+            "type": "pythoncpp",
+            "request": "launch",
+            "pythonConfig": "default",
+            "cppConfig": "!!pick 'default (win) Attach' or 'default (gdb) Attach'"
+        },
+
+        
         {
             "name": "(gdb) Attach",
             "type": "cppdbg",

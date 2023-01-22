@@ -4,21 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {
-            "name": "Python C++ Debugger",
-            "type": "pythoncpp",
-            "request": "launch",
-            "pythonConfig": "default",
-            "cppConfig": "!!pick 'default (win) Attach' or 'default (gdb) Attach'"
-        },
-        {
-            "type": "autojs",
-            "request": "launch",
-            "main": "main.js",
-            "stopOnEntry": true,
-            "device": "[current]",
-            "name": "[Auto.js Pro调试]使用最近设备"
-        },
+        
     
         {
             "name": "(gdb) Attach",

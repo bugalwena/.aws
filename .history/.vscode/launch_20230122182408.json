@@ -5,13 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python C++ Debugger",
-            "type": "pythoncpp",
-            "request": "launch",
-            "pythonConfig": "default",
-            "cppConfig": "!!pick 'default (win) Attach' or 'default (gdb) Attach'"
-        },
-        {
             "type": "autojs",
             "request": "launch",
             "main": "main.js",

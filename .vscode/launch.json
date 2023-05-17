@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/bugal/.aws/.git",
-      "program": "c:/Users/bugal/.aws/.git/build/Debug/outDebug",
+      "cwd": "c:/Users/bugal/.aws.worktrees/local-1/.history/.vscode",
+      "program": "c:/Users/bugal/.aws.worktrees/local-1/.history/.vscode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
